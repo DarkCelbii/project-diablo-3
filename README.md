@@ -1,6 +1,6 @@
 # Project Diablo 3
 
-An independent, early-stage server project created by **David Gibb (celbii)**. The long-term
+An independent, early-stage server project created by **David Gibb**. The long-term
 goal is a private server implementation for Diablo III.
 
 ## Status
@@ -96,9 +96,9 @@ import and verification results.
 
 ## Project contact
 
-| Public name and handle | Role |
+| Public name | Role |
 | --- | --- |
-| [David Gibb (celbii / DarkCelbii)](https://github.com/DarkCelbii) | Creator and security maintainer |
+| [David Gibb](https://github.com/DarkCelbii) | Creator and security maintainer |
 
 See [SECURITY.md](SECURITY.md) for the security contact, implemented controls
 and current reporting status.

@@ -5,7 +5,7 @@ Checked October 31, 2026.
 ## Identified dependent repository
 
 [PD3 Scenario Runner](https://github.com/DarkCelbii/pd3-scenario-runner) is a
-separate development tool maintained by **David Gibb (celbii / DarkCelbii)**,
+separate development tool maintained by **David Gibb**,
 who also owns Project Diablo 3. Its purpose is to run repeatable HTTP scenarios
 against an isolated, temporary realm using this project's actual implementation.
 

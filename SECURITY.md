@@ -2,8 +2,8 @@
 
 ## Security contact
 
-**David Gibb (celbii)**, using the GitHub account [DarkCelbii](https://github.com/DarkCelbii),
-is the project's **creator and security maintainer**, designated by the project
+**[David Gibb](https://github.com/DarkCelbii)** is the project's
+**creator and security maintainer**, designated by the project
 owner on October 31, 2026. This is a current project role; it does not claim a
 prior maintenance history or an independent security audit.
 

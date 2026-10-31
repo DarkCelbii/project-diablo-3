@@ -7,7 +7,7 @@
   "type": "module",
   "exports": "./src/server.mjs",
   "files": ["src/", "README.md", "SECURITY.md", "LICENSE"],
-  "author": { "name": "David Gibb (celbii)", "url": "https://github.com/DarkCelbii" },
+  "author": { "name": "David Gibb", "url": "https://github.com/DarkCelbii" },
   "license": "MIT",
   "engines": { "node": ">=24" },
   "scripts": {
