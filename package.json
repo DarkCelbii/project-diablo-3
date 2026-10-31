@@ -1,0 +1,14 @@
+{
+  "name": "project-diablo-3",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local realm and character API prototype for Project Diablo 3",
+  "type": "module",
+  "author": { "name": "David Gibb (celbii)", "url": "https://github.com/DarkCelbii" },
+  "license": "MIT",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "start": "node src/main.mjs",
+    "test": "node --test"
+  }
+}
