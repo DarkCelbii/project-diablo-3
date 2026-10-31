@@ -74,6 +74,20 @@ docs/roadmap.md               Next development milestones
 docs/application-evidence.md  Verification facts and missing evidence
 ```
 
+## Library interface
+
+Other development tools can import the realm implementation directly:
+
+```js
+import { createRealmServer, CLASSES } from 'project-diablo-3';
+```
+
+The public exports are `createRealmServer`, `CLASSES`, `MAX_BODY_BYTES` and
+`MAX_CHARACTERS`. Consumers supply a development token and bind the returned
+HTTP server to loopback. Each server has its own temporary character store.
+The package can be installed from this Git repository at a pinned commit;
+it has not been published to a package registry.
+
 ## Project contact
 
 | Public name and handle | Role |
