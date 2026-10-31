@@ -1,0 +1,23 @@
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local tooling and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Common generated output
+node_modules/
+__pycache__/
+*.pyc
+bin/
+obj/
+dist/
+build/
+*.log
