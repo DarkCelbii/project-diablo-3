@@ -88,6 +88,12 @@ HTTP server to loopback. Each server has its own temporary character store.
 The package can be installed from this Git repository at a pinned commit;
 it has not been published to a package registry.
 
+The companion [PD3 Scenario Runner](https://github.com/DarkCelbii/pd3-scenario-runner)
+installs a pinned revision of this package and exercises a temporary realm with
+JSON scenarios. Both projects are maintained by David Gibb. See the
+[dependency evidence](docs/dependency-evidence.md) for the manifest, actual
+import and verification results.
+
 ## Project contact
 
 | Public name and handle | Role |
@@ -106,5 +112,7 @@ No game client, proprietary server files or game assets are included.
 
 The [application evidence worksheet](docs/application-evidence.md) records the
 information available for a verification application and the evidence still
-needed. No adoption figures have been verified. A working prototype alone does
-not establish the adoption required by the form.
+needed. One first-party dependent development repository is documented. The
+GitHub Dependents page showed 0 repositories and 0 packages when checked on
+October 31, 2026. Independent adoption and application eligibility have not
+been established.

@@ -22,7 +22,9 @@ does not independently verify the owner's legal identity or role.
 > project currently in its initial development stage. I contribute under the
 > handle celbii (GitHub: DarkCelbii). The current source is a local HTTP realm
 > and character-management prototype. Diablo III client compatibility is future
-> work. I do not currently have verified project-adoption figures to report.
+> work. I also maintain PD3 Scenario Runner, a separate development repository
+> that imports this project as a pinned Git dependency. Both repositories have
+> the same owner. I do not have verified independent third-party adoption to report.
 
 ## Evidence fields from the supplied form
 
@@ -30,9 +32,9 @@ does not independently verify the owner's legal identity or role.
 | --- | --- | --- |
 | Open-source project | [Project Diablo 3](https://github.com/DarkCelbii/project-diablo-3); original local HTTP prototype with an MIT license | This establishes a starting codebase, not adoption or program eligibility |
 | Link showing your role | [SECURITY.md](https://github.com/DarkCelbii/project-diablo-3/blob/main/SECURITY.md) names David Gibb (celbii / DarkCelbii) as creator and security maintainer | This is an owner-designated role, not independent verification or evidence of a prior maintenance history |
-| Project adoption | No adoption measure has been selected or verified | A supported measure from the form: dependent repositories/packages, monthly downloads on a major package registry, default inclusion in a listed distribution, or a critical designation on ecosyste.ms |
-| Number of dependent repositories or packages | Unknown; no count is claimed | An actual count from a verifiable source, if using this measure |
-| Link showing the adoption figure | Not available | The source supporting the selected measure and figure |
+| Project adoption | One source-verified first-party dependent development repository, [PD3 Scenario Runner](https://github.com/DarkCelbii/pd3-scenario-runner), with the same owner | Whether this first-party development use meets the program's adoption requirement has not been established |
+| Number of dependent repositories or packages | Source inventory: 1 first-party dependent repository. GitHub's Dependents page showed 0 repositories and 0 packages on October 31, 2026 | Clearly distinguish the source inventory from GitHub's aggregate figure; do not describe the first-party project as an independent adopter |
+| Link showing the adoption figure | [Dependency evidence](dependency-evidence.md) links the declaration and actual import. [GitHub Dependents](https://github.com/DarkCelbii/project-diablo-3/network/dependents) showed 0 repositories and 0 packages at the check | The evidence establishes a specific code dependency and common ownership; it does not establish a qualifying adoption claim |
 | Connection to verified identity | Owner-supplied public name David Gibb, handle celbii and connected GitHub account DarkCelbii | The public documents link the supplied name and handle; this does not independently verify identity |
 
 ## Completion notes
@@ -53,6 +55,8 @@ numerical adoption claim until its source has been checked.
   covers the original source and documentation in this repository.
 
 Do not describe the prototype as a functioning Diablo III private server.
-If the selected application category requires adoption you cannot substantiate,
-leave the submission unfinished or use another category that fits your actual
-qualifications. Creating this starter does not supply the missing adoption evidence.
+When describing the companion project, disclose that you maintain both
+repositories and that the companion is a development/testing tool. A dependency
+within your own projects does not establish adoption by other developers. If
+the selected category requires evidence you cannot substantiate, leave the
+submission unfinished or use another category that fits your actual qualifications.
